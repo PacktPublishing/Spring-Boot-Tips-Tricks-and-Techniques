@@ -1,0 +1,22 @@
+payment-config.supportedAccounts: accoutFirst, accountSecond, accountThird, accountFourth
+
+management.endpoints.web.base-path: "/"
+management.endpoints.web.exposure.include: "*"
+management.health.defaults.enabled: true
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, metrics
+  metrics:
+    export:
+      atlas:
+        enabled: false
+  security:
+    enabled: false
+
+service-config:
+  a: 1
+  b: "This-is-application.yml config"

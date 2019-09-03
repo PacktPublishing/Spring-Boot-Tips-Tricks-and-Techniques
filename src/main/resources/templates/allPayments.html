@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-us" xmlns:th="http://www.thymeleaf.org">
+<body>
+All registered payments:
+<br>
+<tr th:each="t : ${list}">
+    userId:
+    <td th:text="${t.userId}"></td>
+    From Account:
+    <td th:text="${t.accountFrom}"></td>
+    To Account:
+    <td th:text="${t.accountTo}"></td>
+    Amount:
+    <td th:text="${t.amount}"></td>
+    <br>
+</tr>
+</body>
+</html>

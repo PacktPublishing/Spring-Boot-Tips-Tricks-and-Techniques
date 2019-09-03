@@ -1,0 +1,2 @@
+service-config:
+  b: "This-is-application-dev.yml config"
