@@ -35,7 +35,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 
 ## Related Products
-* [Hands-On Application Development with Spring Boot 2 [Video]](hhttps://www.packtpub.com/application-development/hands-application-development-spring-boot-2-video)
+* [Hands-On Application Development with Spring Boot 2 [Video]](https://www.packtpub.com/application-development/hands-application-development-spring-boot-2-video)
 
 * [Hands-On Microservices with Spring Boot 2.0 [Video]](https://www.packtpub.com/application-development/hands-microservices-spring-boot-20-video)
 
